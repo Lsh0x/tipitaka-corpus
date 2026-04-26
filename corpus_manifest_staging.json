@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "en": {
+      "name": "English",
+      "flag": "🇬🇧",
+      "translators": "Bhikkhu Sujato · Bhikkhu Bodhi",
+      "bundled": true,
+      "version": 5,
+      "size_bytes": 77905920,
+      "sha256": "feab343b530f991862f929328c1416089fec14c9e9e93bc30638e547aacd767f",
+      "gdrive_id": "",
+      "url": "https://github.com/Lsh0x/tipitaka-corpus/releases/download/corpus-2026-04-26/corpus_en.db"
+    },
+    "fr": {
+      "name": "Français",
+      "flag": "🇫🇷",
+      "translators": "Wijayaratna · Christelle · Maes",
+      "bundled": false,
+      "version": 6,
+      "size_bytes": 30363648,
+      "sha256": "ded57bd573f43cf2dffc4060a0304cebbddb11f1cdac8d0bb5ffb893e7aada34",
+      "gdrive_id": "",
+      "url": "https://github.com/Lsh0x/tipitaka-corpus/releases/download/corpus-2026-04-26/corpus_fr.db"
+    },
+    "vi": {
+      "name": "Tiếng Việt",
+      "flag": "🇻🇳",
+      "translators": "Thích Minh Châu",
+      "bundled": false,
+      "version": 5,
+      "size_bytes": 53510144,
+      "sha256": "3514200cbf528126eea7440726d1dccaf630d9575363c558d20e0367090c45d9",
+      "gdrive_id": "",
+      "url": "https://github.com/Lsh0x/tipitaka-corpus/releases/download/corpus-2026-04-26/corpus_vi.db"
+    }
+  },
+  "model": {
+    "name": "multilingual-e5-small (int8)",
+    "filename": "multilingual-e5-small-int8.onnx",
+    "version": 1,
+    "size_bytes": 118086323,
+    "sha256": "d2e55eace93506f5f8442234c4378ff23cfc5d638fac55cbf9ae6c0df42ac8ae",
+    "gdrive_id": "",
+    "url": "",
+    "required_for_langs": ["fr", "vi"],
+    "vocab": {
+      "filename": "multilingual-e5-small-vocab.json",
+      "size_bytes": 17082800,
+      "sha256": "cd98e5698b201ba914efb8c18b6709fa8735ab71dcad8d2b431e52e8bf68d932",
+      "gdrive_id": "",
+      "url": ""
+    }
+  }
+}
