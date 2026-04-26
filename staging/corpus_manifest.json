@@ -9,7 +9,7 @@
       "size_bytes": 77905920,
       "sha256": "feab343b530f991862f929328c1416089fec14c9e9e93bc30638e547aacd767f",
       "gdrive_id": "",
-      "url": "https://github.com/Lsh0x/tipitaka-corpus/releases/download/corpus-2026-04-26/corpus_en.db"
+      "url": "https://raw.githubusercontent.com/Lsh0x/tipitaka-corpus/main/staging/corpus_en.db"
     },
     "fr": {
       "name": "Français",
@@ -20,7 +20,7 @@
       "size_bytes": 30363648,
       "sha256": "ded57bd573f43cf2dffc4060a0304cebbddb11f1cdac8d0bb5ffb893e7aada34",
       "gdrive_id": "",
-      "url": "https://github.com/Lsh0x/tipitaka-corpus/releases/download/corpus-2026-04-26/corpus_fr.db"
+      "url": "https://raw.githubusercontent.com/Lsh0x/tipitaka-corpus/main/staging/corpus_fr.db"
     },
     "vi": {
       "name": "Tiếng Việt",
@@ -31,7 +31,7 @@
       "size_bytes": 53510144,
       "sha256": "3514200cbf528126eea7440726d1dccaf630d9575363c558d20e0367090c45d9",
       "gdrive_id": "",
-      "url": "https://github.com/Lsh0x/tipitaka-corpus/releases/download/corpus-2026-04-26/corpus_vi.db"
+      "url": "https://raw.githubusercontent.com/Lsh0x/tipitaka-corpus/main/staging/corpus_vi.db"
     }
   },
   "model": {
