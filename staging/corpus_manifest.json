@@ -5,9 +5,9 @@
       "flag": "🇬🇧",
       "translators": "Bhikkhu Sujato · Bhikkhu Bodhi",
       "bundled": true,
-      "version": 18,
-      "size_bytes": 77959168,
-      "sha256": "a29be645b3379796f5185aa39e58b55066c645b2cb6076b635f0c0035793ced1",
+      "version": 20,
+      "size_bytes": 77975552,
+      "sha256": "b98020b5f691c31606c50b5f943895b0ba562ede2a91b8c8982ca5f80235f57f",
       "gdrive_id": "",
       "url": "https://raw.githubusercontent.com/Lsh0x/tipitaka-corpus/main/staging/corpus_en.db"
     },
@@ -16,9 +16,9 @@
       "flag": "🇫🇷",
       "translators": "Wijayaratna · Christelle · Maes",
       "bundled": false,
-      "version": 19,
-      "size_bytes": 31506432,
-      "sha256": "9777da6f1488f6ddb51b2caee892c1467137f27ec0515cc8ed19172f3881013c",
+      "version": 20,
+      "size_bytes": 30351360,
+      "sha256": "9aa143c86b22f1388fadb94bbdd9f7084bf4440a1e8e301c9f21bdee832b75d4",
       "gdrive_id": "",
       "url": "https://raw.githubusercontent.com/Lsh0x/tipitaka-corpus/main/staging/corpus_fr.db"
     },
@@ -27,9 +27,9 @@
       "flag": "🇻🇳",
       "translators": "Thích Minh Châu",
       "bundled": false,
-      "version": 19,
-      "size_bytes": 67686400,
-      "sha256": "68803407f53b227244dc7f00426f141501f2fb768ef270a3bca20a18c704d0a2",
+      "version": 20,
+      "size_bytes": 53506048,
+      "sha256": "32fb9a0cf7c47ce28dcdf50a47210d3ba2acc13d0c7d40537c7871293c1e54e1",
       "gdrive_id": "",
       "url": "https://raw.githubusercontent.com/Lsh0x/tipitaka-corpus/main/staging/corpus_vi.db"
     }
