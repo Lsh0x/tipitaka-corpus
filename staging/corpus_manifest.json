@@ -1,4 +1,6 @@
 {
+  "schema_version": 3,
+  "min_app_version": 95,
   "languages": {
     "en": {
       "name": "English",
