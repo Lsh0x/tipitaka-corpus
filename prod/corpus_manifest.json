@@ -18,9 +18,9 @@
       "flag": "🇫🇷",
       "translators": "Wijayaratna · Christelle · Maes",
       "bundled": false,
-      "version": 24,
-      "size_bytes": 35164160,
-      "sha256": "89162c80a6fdfe51ab2020507c18f7356ee20dc4000e6ef5484bbd48de414f21",
+      "version": 25,
+      "size_bytes": 35147776,
+      "sha256": "72e1d1bde97ad7660bbac86fa9ab07733ee269188c66dca515a35319e8cb02f8",
       "gdrive_id": "",
       "url": "https://raw.githubusercontent.com/Lsh0x/tipitaka-corpus/main/prod/corpus_fr.db"
     },
@@ -29,9 +29,9 @@
       "flag": "🇻🇳",
       "translators": "Thích Minh Châu",
       "bundled": false,
-      "version": 24,
-      "size_bytes": 61767680,
-      "sha256": "dfa76b515ff92e24b42bb5443339dba3141c874436a91199ad17b39c2bb934c5",
+      "version": 25,
+      "size_bytes": 60669952,
+      "sha256": "fc53d0cf80ce1a8d9941d48c019b04951087f802debd5b3c1dd1a620bf159efb",
       "gdrive_id": "",
       "url": "https://raw.githubusercontent.com/Lsh0x/tipitaka-corpus/main/prod/corpus_vi.db"
     }
